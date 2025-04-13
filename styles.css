@@ -73,19 +73,6 @@ body {
     color: #eee;
     margin-top: 2rem;
   }
-  .spotify-widget {
-    position: fixed;
-    top: 100px;
-    right: 20px;
-    width: 300px;
-    z-index: 999;
-  }
-  @media (max-width: 768px) {
-    .spotify-widget {
-      display: none; /* Hide on mobile */
-    }
-  }
-    
   
   /* Responsive */
   @media (max-width: 768px) {
